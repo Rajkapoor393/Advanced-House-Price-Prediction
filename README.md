@@ -34,3 +34,5 @@ we will analyze to find out the below stuff
 2. Temporal Variables
 3. Categorical Variables: remove rare labels
 4. Standarise the value of the Variables to the same range
+
+### Feature Selection
