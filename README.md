@@ -17,7 +17,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 4. Model Building
 5. Model Deployment
 
-### 1. In Data Analysis 
+###  In Data Analysis 
 we will analyze to find out the below stuff
 
 1. Missing Values
@@ -27,3 +27,10 @@ we will analyze to find out the below stuff
 5. Cardinality of Categorical Variables
 6. Outliers
 7. Relationship between independent and dependent feature(SalePrice)
+
+### Feature Engineering
+
+1. Missing Values
+2. Temporal Variables
+3. Categorical Variables: remove rare labels
+4. Standarise the value of the Variables to the same range
